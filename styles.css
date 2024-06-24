@@ -107,3 +107,11 @@ footer a:hover{
 .centered{
     text-align: center;
 }
+.absolute{
+    position: absolute;
+    width: 25%;
+}
+.relative{
+    position: relative;
+    width: 50%;
+}
